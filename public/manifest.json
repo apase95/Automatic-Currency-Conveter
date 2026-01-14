@@ -1,0 +1,19 @@
+{
+  "name": "Automatic Currency Converter",
+  "description": "Convert prices on any website to VND automatically",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons" : {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Currency Settings"
+  },
+  "permissions": ["storage"],
+  "host_permissions": [
+    "<all_urls>" 
+  ]
+}
