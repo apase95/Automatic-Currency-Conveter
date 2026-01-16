@@ -1,10 +1,15 @@
 # Automatic Currency Converter (Chrome Extension)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension_(Manifest_V3)-%234285F4.svg?style=flat-square&logo=google-chrome&logoColor=white)
 
 Automatic Currency Converter is a simple Chrome extension that helps you convert money from many currencies to **VND (Vietnamese Dong)** quickly and easily.
 
 ## ✨ Features
 
-- Convert from popular currencies (USD, EUR, JPY, GBP, etc.) to VND
+- Convert from popular currencies **(USD, EUR, JPY, GBP, etc.) to VND**
 - Show **current exchange rate** automatically
 - Allow **manual exchange rate** input
 - Simple and clean UI  
@@ -12,9 +17,9 @@ Automatic Currency Converter is a simple Chrome extension that helps you convert
     
 ## 🧩 How It Works
 
-1. Open the extension
-2. Enter the amount of money
-3. Choose a currency
+1. Open the **extension**
+2. Enter the **amount of money**
+3. Choose a **currency**
 4. See the result in **VND** instantly
 
 <img width="508" height="380" alt="image" src="https://github.com/user-attachments/assets/770a7c14-b1e0-419d-9fd0-5484592f2e2b" />
@@ -46,3 +51,4 @@ npm install
 ```bash
 npm run build
 ```
+## ✨ Thanks for checking out my project!
