@@ -51,4 +51,6 @@ npm install
 ```bash
 npm run build
 ```
+
+---
 ## ✨ Thanks for checking out my project!
